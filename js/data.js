@@ -25,7 +25,7 @@ const ROUTINE = [
     categoria: "pitch",
     ejercicios: [
       { chip: "5'", texto: "Caminata" },
-      { chip: "30'", texto: "Trote suave, ritmo conversación" },
+      { chip: "30'", texto: "Trote 7 series de 5 minutos con intervalos de 90 segundos de caminata." },
       { chip: "FIN", texto: "Elongar" }
     ],
     nota: "Sesión para construir base aeróbica."
